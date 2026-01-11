@@ -35,7 +35,7 @@ Analyzes sales distribution and performance across regions.
 ---
 
 ### 3️⃣ Product and Channel Insights Dashboard
-![Product Dashboard](Produc_and_Channel_Insights_Dashboard.png)
+![Product Dashboard](Product_and_Channel_Insights_Dashboard.png)
 
 **Purpose:**  
 Evaluates product mix and sales channel effectiveness.
