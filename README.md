@@ -63,8 +63,13 @@ Evaluates product mix and sales channel effectiveness.
 
 ---
 
+## 🎯 Learning Objective
+To practice real-world sales data analysis using Excel by building
+interactive dashboards and extracting actionable business insights.
+
+
 ## 📌 Author
-**Abhishek Gaurav**  
-MBA | Sales & Marketing | Business Analytics  
+**Tanushree Shende**  
+B.E | E&TC | Aspiring Data Analyst 
 
 
